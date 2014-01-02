@@ -21,10 +21,7 @@ qtlight是我自己学习php的习作，希望高手批评指正。
 
 ## 联系我 ##
 
-* qq:115928478
 * 邮箱： <qtlight@qt06.com>
 * 微博： <http://weibo.com/qt06>
 * 个人博客： <http://www.qt06.com/>
 * 网站： <http://qtlight.sinaapp.com>
-
-
