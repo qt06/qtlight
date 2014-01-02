@@ -7,4 +7,5 @@ include('config.inc.php');
 qtlight_init();
 distribute();
 
+
 echo '<!-- today:' . $GLOBALS[$GLOBALS['data_pre'] . 'site_count'][date('Ymd')] . ',total:' . $GLOBALS[$GLOBALS['data_pre'] . 'site_count']['total'] . '. spent:' . timespent() .'ms -->';
