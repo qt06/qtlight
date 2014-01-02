@@ -26,3 +26,5 @@ qtlight是我自己学习php的习作，希望高手批评指正。
 * 微博： <http://weibo.com/qt06>
 * 个人博客： <http://www.qt06.com/>
 * 网站： <http://qtlight.sinaapp.com>
+
+
